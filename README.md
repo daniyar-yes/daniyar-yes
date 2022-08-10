@@ -1,7 +1,6 @@
 - 👋 Hi, I’m @daniyar-yes
 - 👀 I’m interested in Web Development and Game Design
-- 🌱 I’m currently learning JavaScript, Node.js and React
-- 💞️ I’m looking to collaborate on open-source Front-End projects
+- 🌱 I use React / Redux and learning TS
 
 
 <!---
