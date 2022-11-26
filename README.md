@@ -1,6 +1,7 @@
 - 👋 Hi, I’m @daniyar-yes
-- 👀 I’m interested in Web Development and Game Design
-- 🌱 I use React / Redux and learning TS
+- 👀 I’m a Web Developer
+- 🌱 I love JS and React ecosystem
+- ☁️ I'm proficient in AWS Serverless full-stack web development
 
 
 <!---
