@@ -1,6 +1,7 @@
 - 👋 Hi, I’m @daniyar-yes
 - 👀 I’m a Web Developer
 - 🌱 I love JS and React ecosystem
+- 🎮 Game Development fan, learning Unity, Unreal and Blender 3d
 - ☁️ I'm proficient in AWS Serverless full-stack web development
 
 
