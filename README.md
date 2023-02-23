@@ -1,5 +1,5 @@
 - 👋 Hi, I’m @daniyar-yes
-- 👩‍💻 I’m use JavaScript, React, Next and HTML / CSS to build optimized and accessible Web Applications
+- 👩‍💻 I’m use JS / TS, React, Next.js to build optimized and accessible Web Apps
 - 🎓 BSc in Telecommunications Engineering, MSc in Project Management
 - 🌱 I am learning Data Structures and Algorithms
 - 🎮 Game Development (Unreal Engine, Blender) enthusiast
