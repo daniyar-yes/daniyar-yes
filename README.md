@@ -1,10 +1,10 @@
-👋 Hi, I’m @daniyar-yes
-👩‍💻 I’m use JavaScript, React, Next and HTML / CSS to build optimized and accessible Web Applications
-🎓 BSc in Telecommunications Engineering, MSc in Project Management
-🌱 I am learning Data Structures and Algorithms
-🎮 Game Development (Unreal Engine, Blender) enthusiast
-🫶🏼 I care about user experience && developer experience of my peers
-📫 How to reach me: email@ yeskaliyevdan@hotmail.com
+-👋 Hi, I’m @daniyar-yes
+-👩‍💻 I’m use JavaScript, React, Next and HTML / CSS to build optimized and accessible Web Applications
+-🎓 BSc in Telecommunications Engineering, MSc in Project Management
+-🌱 I am learning Data Structures and Algorithms
+-🎮 Game Development (Unreal Engine, Blender) enthusiast
+-🫶🏼 I care about user experience && developer experience of my peers
+=📫 How to reach me: email@ yeskaliyevdan@hotmail.com
 
 <!---
 daniyar-yes/daniyar-yes is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
