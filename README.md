@@ -1,9 +1,9 @@
 - 👋 Hi, I’m @daniyar-yes
-- 👩‍💻 I use JS / TS, and React to build optimized and accessible Web Apps
+- 👩‍💻 I use TypeScript, React and Redux to build optimized and accessible Web Apps
 - 🎓 BSc in Telecommunications Engineering, MSc in Project Management
-- 🌱 I am learning Data Structures and Algorithms
-- 🎮 Game Development (Unreal Engine, C++) enthusiast
-- 🫶🏼 I care about user experience && developer experience of my peers
+- 🌱 Quick learner
+- 🎮 Unreal Engine enthusiast
+- 🫶🏼 I care about user && developer experience
 - 📫 How to reach me: email@ yeskaliyevdan@hotmail.com
 
 <!---
