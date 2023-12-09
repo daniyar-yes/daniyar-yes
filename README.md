@@ -1,4 +1,4 @@
-- 👋 Hi, I’m @daniyar-yes
+- 👋 Hi, my name is Daniyar
 - 👩‍💻 I use TypeScript, React and Redux to build optimized and accessible Web Apps
 - 🎓 BSc in Telecommunications Engineering, MSc in Project Management
 - 🌱 Quick learner
